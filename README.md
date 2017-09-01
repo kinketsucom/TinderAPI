@@ -71,3 +71,6 @@ Alamofire.request(url,method:.get,headers:head).responseSwiftyJSON { response in
 ```
 valueは
 {match:true}か{match:false}として返ってきます。もちろん前者が嬉しい方です。
+
+## Passを送信
+こちらはLikeを送信する場合のリンクの/like/を/pass/にするだけで送信できます。
